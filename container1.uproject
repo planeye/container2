@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.1",
 	"Category": "",
-	"Description": "",
+	"Description": "Test",
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
